@@ -1,0 +1,21 @@
+.VolunteerRegistration{
+    margin: auto; 
+    background-color: rgba(29, 3, 3, 0.158);
+    border-radius: 16px;
+    width: 250px;
+    margin-top: 100px;
+}
+
+.VolunteerRegistration h1{
+    color: aqua;
+}
+
+.VolunteerRegistration input{
+    margin: 4px;
+    border-radius: 8px;
+}
+.VolunteerRegistration button{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}

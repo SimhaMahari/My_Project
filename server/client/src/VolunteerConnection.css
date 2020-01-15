@@ -1,0 +1,18 @@
+.VolunteerConnection{
+    margin: auto; 
+    width: 300px;
+    border-radius: 18px ;
+    background-color: rgba(29, 3, 3, 0.158);
+margin-top: 100px;
+}
+.VolunteerConnection input{
+    margin: 10px;
+    /* background-color: rgb(44, 44, 160); */
+    font-size: 16px;
+    border-radius: 8px;
+
+}
+.VolunteerConnection button{
+    background-color: blue;
+    color: white;
+}

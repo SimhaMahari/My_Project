@@ -1,0 +1,12 @@
+.HomePage{
+margin: auto;
+}
+.HomePage p{
+    margin: auto;
+    width: 200px;
+    height: 140px;
+    margin-top: 50px;
+    color: white;
+    background-color: rgba(29, 3, 3, 0.158);
+    border-radius: 65px;
+}

@@ -1,0 +1,27 @@
+body{
+  background-image: url("https://www.jerusalem.muni.il/media/1244/education_13.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+/* background-image: url("https://www.clalit.co.il/he/new_article_images/your_health/kids%20and%20childern2/636281354/wide.jpg"); */
+
+
+}
+
+.App {
+text-align: center;
+
+}
+
+button{
+  margin: auto;
+  margin: 5px;
+  margin-top: 10px;
+  background-color:orange;
+}
+.App a{
+text-decoration: none;
+}
+
+
+

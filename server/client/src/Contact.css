@@ -1,0 +1,14 @@
+.Contact{
+     width: 250px;
+    background-color: rgb(89, 89, 248);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 18px;
+}
+.Contact input{
+    margin: 6px;
+    border-radius: 8px;
+} 
+.Contact button{
+    border-radius: 8px;
+} 

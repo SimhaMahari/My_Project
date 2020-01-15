@@ -1,0 +1,20 @@
+.ParentalRegistration{
+    margin: auto;
+    background-color: rgba(29, 3, 3, 0.158);
+border-radius: 18px;
+    width: 250px;
+    margin-top: 100px;
+}
+.ParentalRegistration h1{
+    color: aqua;
+}
+
+.ParentalRegistration input{
+    margin: 3px;
+}
+
+.ParentalRegistration button{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
